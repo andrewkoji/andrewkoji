@@ -1,4 +1,6 @@
-## Hi there 👋 My name is Andrew Levinton and I am a Mathematics Teacher who is transitioning to Data Science. I have recently acquired my Data Science Certification at the Flatiron School. In this program, I have completed projects in the field of **Machine Learning**. 
+## Hi there 👋 My name is Andrew Levinton and I am a Mathematics Teacher who is transitioning to Data Science. My passions involve using the vast levels of unstructured data in this world to answer complex questions. I believe there is always a more efficient, and potentially transformative solution to our world's issues, no matter how big they may seem. 
+
+
 
 <!--
 **andrewkoji/andrewkoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
