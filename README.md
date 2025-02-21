@@ -1,5 +1,7 @@
 ## Hi there 👋 My name is Andrew Levinton and I am a Mathematics Teacher who is transitioning to Data Science. My passions involve using the vast levels of unstructured data in this world to answer complex questions. I believe there is always a more efficient, and potentially transformative solution to our world's issues, no matter how big they may seem. 
 
+- 🔭 I’m currently working on using the most advanced AI techniques to solve problems in the field of education. Education, particularly K-12, has many outdated practices that need revitalization. Time for educators is so precious, and the feeling of always needing to do more never leaves their mind. I look to create solutions for educators that will help them to put their "best self" forward, as well as enable them to provide the most fufilling educational experience for their students. 
+
 
 
 <!--
